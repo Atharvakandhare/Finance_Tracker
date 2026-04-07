@@ -52,5 +52,8 @@ The app is built with a "Fintech First" approach:
 - **Clarity**: High-contrast typography and color-coded category icons for immediate recognition.
 - **Micro-interactions**: Smooth transitions and haptic-like animations for every action.
 
+Check Docs/App_Screenshots folder for review UI Screens.
+
 ---
+
 Built as part of the Finance Manager / Expense Tracker Assignment.
